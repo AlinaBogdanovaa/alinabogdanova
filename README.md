@@ -13,7 +13,14 @@ Now I’m seeking a challenging role as a software tester. Although I haven't ha
 #### 📄 My CV 
 You can view or download [my CV (eng)](https://drive.google.com/file/d/1MputA9eMLqs3zmLvILyJeJg5DbgugBGt/view?usp=drive_link) | [my CV (rus)](https://drive.google.com/file/d/1glW7khnrd0IPRlle8yB6JmXdUQp__dki/view?usp=sharing) 
 
-#### 📄 My CV 
+#### 📂 Portfolio
+
+Here are some examples of my work:
+
+- 📝 [Test Cases (Google Sheets)](https://drive.google.com/drive/folders/1U17iASYt0ToorTGdyTkTemOtkoeOrA-L?usp=sharingk)
+- ✅ [Checklist Example](https://drive.google.com/drive/folders/1f1XPKTGnbljqQ4r5X5L_qN62jfKMhsA8?usp=sharing)
+- 🐞 [Bug Report Samples](https://drive.google.com/drive/folders/1eFSwz3Dq7awyI67BT4N0rHlzUuxum-e5?usp=sharing)
+- 🔧 [API Testing (Postman Collection)](https://www.postman.com/material-physicist-12922288/workspace/petstore/collection/40495311-f65e1678-998e-4eb9-b808-e859bdd01838?action=share&source=copy-link&creator=40495311)
 
 #### 📍 Contacts
 - Location: Turkey  
@@ -28,15 +35,14 @@ You can view or download [my CV (eng)](https://drive.google.com/file/d/1MputA9eM
 </p>
 
 #### 🧠 Skills
-✔️ Fundamentals of software testing
-✔️ Practical knowledge of test design techniques
-✔️ Writing test documentation (Test cases, checklists and bug reports)
-✔️ Experienced with:
+- Fundamentals of software testing
+- Practical knowledge of test design techniques
+- Writing test documentation (Test cases, checklists and bug reports)
+- Experienced with:
     - Bug tracking systems: Jira, YouTrack
     - Test management systems: TestIt, TestRail, Zephyr for Jira
-✔️ Understanding of CI/CD basics
-
-🧪 Learning: Python + Selenium
+- Understanding of CI/CD basics
+- 🧪 Learning: Python + Selenium
 
 
 #### 🛠 Tools
