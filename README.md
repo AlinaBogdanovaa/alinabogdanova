@@ -1,11 +1,20 @@
 ![Header](https://github.com/AlinaBogdanovaa/alinabogdanova/blob/main/assets/headerpic.svg)
 
 Hi there! I'm a Junior QA Engineer with a solid background in client management and technical documentation. Currently transitioning into the IT industry, actively learning and practicing manual testing through personal projects, courses, and simulations.
-About me
 
-## 📍 Contacts
-- 📍Location: Turkey  
-- 🇷🇺 Citizenship: Russia
+---
+
+### ✨ About me
+I have strong analytical and communication skills that help me grow as a future QA engineer. I used to work as a head of a department responsible for reviewing and approving technical documentation for water supply network reconstruction. This job required attention to detail, working with regulations, and communication with different teams and organizations. Later, I worked as a client manager, where I helped improve the service process and solved customer requests.
+
+Now I’m learning and practicing in software testing.  I don’t have commercial testing experience yet, but *I’m highly motivated and ready to learn more* in a real team. I want to apply my past experience and grow in the field of software quality.
+
+### My CV 
+You can open/download my CV from GoogleDrive CV_BogdanovaAlina.pdf 
+
+### 📍 Contacts
+- Location: Turkey  
+- Citizenship: Russia
 <p>
   <a href="mailto:bogdanovaa.qa@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-bogdanovaa.qa@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
@@ -14,11 +23,8 @@ About me
     <img src="https://img.shields.io/badge/Telegram-Message-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
-My CV
-EN
-RUS
 
-## 🧠 Skills
+### 🧠 Skills
 - ✔️ Fundamentals of software testing
 - ✔️ Practical knowledge of test design techniques
 - ✔️ Writing test documentation (Test cases, checklists and bug reports)
@@ -29,11 +35,11 @@ RUS
 - ✔️ Web debugging tools: Chrome DevTools, Charles Proxy, Fiddler (basic usage)
 - ✔️ MySQL (basic SELECT, JOIN queries)
 - ✔️ Understanding of CI/CD basics
-- **Currently learning Python and automation testing (Selenium)**
+
 - 🧪 Learning: Python + Selenium
 
 
-## 🛠 Tools
+### 🛠 Tools
 
 <p>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -49,29 +55,27 @@ RUS
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
 </p>
----
 
-## 🎯 Courses
+
+### 🎯 Courses
 
 - *Software Testing from Scratch — Theory & Practice*, Artyom Rusov (2025)  
 - *Certified in Software Testing* (Electronic Certificate)
 
----
 
-## 🎓 Education
+### 🎓 Education
 
 **Moscow State Technical University “MAMI”**  
 *Environmental Engineering and Resource Management* (2014)
 
----
 
-## 📚 Languages
+### 📚 Languages
 
 - 🇷🇺 Russian — Native  
 - 🇬🇧 English — B2 (Upper Intermediate)
 
 
-## ✨ Soft Skills
+### ✨ Soft Skills
 
 - Detail-oriented  
 - Self-motivated  
