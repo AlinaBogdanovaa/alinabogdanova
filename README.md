@@ -1,45 +1,43 @@
 ![Header](https://github.com/AlinaBogdanovaa/alinabogdanova/blob/main/assets/headerpic.svg)
 
-Hi there! I'm a Junior QA Engineer with a solid background in client management and technical documentation. Currently transitioning into the IT industry, actively learning and practicing manual testing through personal projects, courses, and simulations.
+#### Hi there! 👋 <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="50" />
+ I'm Alina - Junior QA Engineer. Currently transitioning into the IT industry, actively learning and practicing manual testing through personal projects, courses, and simulations.
 
 ---
 
-### ✨ About me
+#### ✨ About me
 I have strong analytical and communication skills that help me grow as a future QA engineer. I used to work as a head of a department responsible for reviewing and approving technical documentation for water supply network reconstruction. This job required attention to detail, working with regulations, and communication with different teams and organizations. Later, I worked as a client manager, where I helped improve the service process and solved customer requests.
 
-Now I’m learning and practicing in software testing.  I don’t have commercial testing experience yet, but *I’m highly motivated and ready to learn more* in a real team. I want to apply my past experience and grow in the field of software quality.
+Now I’m seeking a challenging role as a software tester. Although I haven't had commercial testing experience yet, but **I’m highly motivated and ready to learn more** in a real team. I want to apply my past experience and grow in the field of software quality.
 
-### My CV 
-You can open/download my CV from GoogleDrive CV_BogdanovaAlina.pdf 
+#### 📄 My CV 
+You can view or download my CV here[CV_BogdanovaAlina.pdf (Google Drive)](https://drive.google.com/file/d/1MputA9eMLqs3zmLvILyJeJg5DbgugBGt/view?usp=drive_link)
 
-### 📍 Contacts
+#### 📍 Contacts
 - Location: Turkey  
 - Citizenship: Russia
 <p>
   <a href="mailto:bogdanovaa.qa@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-bogdanovaa.qa@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-bogdanovaa.qa@gmail.com-6c757d?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://t.me/alinabogdano">
-    <img src="https://img.shields.io/badge/Telegram-Message-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-@alinabogdano-0088cc?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
 
-### 🧠 Skills
+#### 🧠 Skills
 - ✔️ Fundamentals of software testing
 - ✔️ Practical knowledge of test design techniques
 - ✔️ Writing test documentation (Test cases, checklists and bug reports)
-- ✔️ Bug tracking systems: Jira, YouTrack
-- ✔️ Test managing systems: TestIt, TestRail, Zephyr for Jira
-- ✔️ API testing: Postman (requests, simple autotests), Swagger (API specs navigation)
-- ✔️ REST / SOAP | JSON / XML
-- ✔️ Web debugging tools: Chrome DevTools, Charles Proxy, Fiddler (basic usage)
-- ✔️ MySQL (basic SELECT, JOIN queries)
+- ✔️ Experienced with:
+        - Bug tracking systems: Jira, YouTrack
+        - Test management systems: TestIt, TestRail, Zephyr for Jira
 - ✔️ Understanding of CI/CD basics
 
 - 🧪 Learning: Python + Selenium
 
 
-### 🛠 Tools
+#### 🛠 Tools
 
 <p>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -57,28 +55,12 @@ You can open/download my CV from GoogleDrive CV_BogdanovaAlina.pdf
 </p>
 
 
-### 🎯 Courses
+#### 🎯 Courses
 
-- *Software Testing from Scratch — Theory & Practice*, Artyom Rusov (2025)  
-- *Certified in Software Testing* (Electronic Certificate)
+- *"Software Testing from Scratch — Theory & Practice"*, Artyom Rusov (2025)  
+*Certified in Software Testing* [Electronic Certificate](https://drive.google.com/file/d/16XTfja0gCISKuc5KYYpy7ltP5KGngHcb/view)
+- *"Generation Python: a course for begginers"*, pygen.ru  
+In process (April, 2025)
+- *"Test Automation with Selenium and Python”*, stepik.org
+In process (April, 2025)
 
-
-### 🎓 Education
-
-**Moscow State Technical University “MAMI”**  
-*Environmental Engineering and Resource Management* (2014)
-
-
-### 📚 Languages
-
-- 🇷🇺 Russian — Native  
-- 🇬🇧 English — B2 (Upper Intermediate)
-
-
-### ✨ Soft Skills
-
-- Detail-oriented  
-- Self-motivated  
-- Responsible  
-- Team-friendly  
-- Quick learner
