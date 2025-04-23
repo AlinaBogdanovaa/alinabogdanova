@@ -11,7 +11,7 @@ I have strong analytical and communication skills that help me grow as a future 
 Now I’m seeking a challenging role as a software tester. Although I haven't had commercial testing experience yet, but **I’m highly motivated and ready to learn more** in a real team. I want to apply my past experience and grow in the field of software quality.
 
 #### 📄 My CV 
-You can view or download my CV here[CV_BogdanovaAlina.pdf (Google Drive)](https://drive.google.com/file/d/1MputA9eMLqs3zmLvILyJeJg5DbgugBGt/view?usp=drive_link)
+You can view or download [my CV](https://drive.google.com/file/d/1MputA9eMLqs3zmLvILyJeJg5DbgugBGt/view?usp=drive_link) 
 
 #### 📍 Contacts
 - Location: Turkey  
