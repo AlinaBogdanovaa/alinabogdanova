@@ -1,6 +1,6 @@
 ![Header](https://github.com/AlinaBogdanovaa/alinabogdanova/blob/main/assets/headerpic.svg)
 
-#### Hi there! 👋 <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="50" />
+#### Hi there! 👋 <img src="https://media.tenor.com/dkW3vGzqS4MAAAAM/shaka-bra.gif" width="50" style="vertical-align:middle" />
  I'm Alina - Junior QA Engineer. Currently transitioning into the IT industry, actively learning and practicing manual testing through personal projects, courses, and simulations.
 
 ---
@@ -11,7 +11,9 @@ I have strong analytical and communication skills that help me grow as a future 
 Now I’m seeking a challenging role as a software tester. Although I haven't had commercial testing experience yet, but **I’m highly motivated and ready to learn more** in a real team. I want to apply my past experience and grow in the field of software quality.
 
 #### 📄 My CV 
-You can view or download [my CV](https://drive.google.com/file/d/1MputA9eMLqs3zmLvILyJeJg5DbgugBGt/view?usp=drive_link) 
+You can view or download [my CV (eng)](https://drive.google.com/file/d/1MputA9eMLqs3zmLvILyJeJg5DbgugBGt/view?usp=drive_link) | [my CV (rus)](https://drive.google.com/file/d/1glW7khnrd0IPRlle8yB6JmXdUQp__dki/view?usp=sharing) 
+
+#### 📄 My CV 
 
 #### 📍 Contacts
 - Location: Turkey  
@@ -26,15 +28,15 @@ You can view or download [my CV](https://drive.google.com/file/d/1MputA9eMLqs3zm
 </p>
 
 #### 🧠 Skills
-- ✔️ Fundamentals of software testing
-- ✔️ Practical knowledge of test design techniques
-- ✔️ Writing test documentation (Test cases, checklists and bug reports)
-- ✔️ Experienced with:
-        - Bug tracking systems: Jira, YouTrack
-        - Test management systems: TestIt, TestRail, Zephyr for Jira
-- ✔️ Understanding of CI/CD basics
+✔️ Fundamentals of software testing
+✔️ Practical knowledge of test design techniques
+✔️ Writing test documentation (Test cases, checklists and bug reports)
+✔️ Experienced with:
+    - Bug tracking systems: Jira, YouTrack
+    - Test management systems: TestIt, TestRail, Zephyr for Jira
+✔️ Understanding of CI/CD basics
 
-- 🧪 Learning: Python + Selenium
+🧪 Learning: Python + Selenium
 
 
 #### 🛠 Tools
