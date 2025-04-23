@@ -1,6 +1,6 @@
 ![Header](https://github.com/AlinaBogdanovaa/alinabogdanova/blob/main/assets/headerpic.svg)
 
-#### Hi there! 👋 <img src="https://media.tenor.com/dkW3vGzqS4MAAAAM/shaka-bra.gif" width="50" style="vertical-align:middle" />
+#### Hi there! 👋 
  I'm Alina - Junior QA Engineer. Currently transitioning into the IT industry, actively learning and practicing manual testing through personal projects, courses, and simulations.
 
 ---
@@ -10,17 +10,10 @@ I have strong analytical and communication skills that help me grow as a future 
 
 Now I’m seeking a challenging role as a software tester. Although I haven't had commercial testing experience yet, but **I’m highly motivated and ready to learn more** in a real team. I want to apply my past experience and grow in the field of software quality.
 
+
 #### 📄 My CV 
 You can view or download [my CV (eng)](https://drive.google.com/file/d/1MputA9eMLqs3zmLvILyJeJg5DbgugBGt/view?usp=drive_link) | [my CV (rus)](https://drive.google.com/file/d/1glW7khnrd0IPRlle8yB6JmXdUQp__dki/view?usp=sharing) 
 
-#### 📂 Portfolio
-
-Here are some examples of my work:
-
-- 📝 [Test Cases (Google Sheets)](https://drive.google.com/drive/folders/1U17iASYt0ToorTGdyTkTemOtkoeOrA-L?usp=sharingk)
-- ✅ [Checklist Example](https://drive.google.com/drive/folders/1f1XPKTGnbljqQ4r5X5L_qN62jfKMhsA8?usp=sharing)
-- 🐞 [Bug Report Samples](https://drive.google.com/drive/folders/1eFSwz3Dq7awyI67BT4N0rHlzUuxum-e5?usp=sharing)
-- 🔧 [API Testing (Postman Collection)](https://www.postman.com/material-physicist-12922288/workspace/petstore/collection/40495311-f65e1678-998e-4eb9-b808-e859bdd01838?action=share&source=copy-link&creator=40495311)
 
 #### 📍 Contacts
 - Location: Turkey  
@@ -34,6 +27,8 @@ Here are some examples of my work:
   </a>
 </p>
 
+
+
 #### 🧠 Skills
 - Fundamentals of software testing
 - Practical knowledge of test design techniques
@@ -43,6 +38,16 @@ Here are some examples of my work:
     - Test management systems: TestIt, TestRail, Zephyr for Jira
 - Understanding of CI/CD basics
 - 🧪 Learning: Python + Selenium
+
+
+#### 📂 Portfolio
+
+Here are some examples of my work:
+
+- 📝 [Test Cases (Google Sheets)](https://drive.google.com/drive/folders/1U17iASYt0ToorTGdyTkTemOtkoeOrA-L?usp=sharingk)
+- ✅ [Checklist Example](https://drive.google.com/drive/folders/1f1XPKTGnbljqQ4r5X5L_qN62jfKMhsA8?usp=sharing)
+- 🐞 [Bug Report Samples](https://drive.google.com/drive/folders/1eFSwz3Dq7awyI67BT4N0rHlzUuxum-e5?usp=sharing)
+- 🔧 [API Testing (Postman Collection)](https://www.postman.com/material-physicist-12922288/workspace/petstore/collection/40495311-f65e1678-998e-4eb9-b808-e859bdd01838?action=share&source=copy-link&creator=40495311)
 
 
 #### 🛠 Tools
