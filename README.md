@@ -36,6 +36,8 @@ You can view or download [my CV (eng)](https://drive.google.com/file/d/1MputA9eM
 - Experienced with:
     - Bug tracking systems: Jira, YouTrack
     - Test management systems: TestIt, TestRail, Zephyr for Jira
+- Chrome DevTools, Charles Proxy, Fiddler (basic usage)
+- MySQL (basic SELECT, JOIN queries)
 - Understanding of CI/CD basics
 - 🧪 Learning: Python + Selenium
 
